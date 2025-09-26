@@ -1,0 +1,795 @@
+[
+  {
+    "id": "assiettes-chawrma",
+    "name": "Chawrma",
+    "category": "Nos Assiettes",
+    "price": "10,80 €",
+    "description": "Poulet à la broche tournante mariné et épicé accompagné de salade Fayrouz, hommous et de blé concassé ou de frites.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Hommous",
+      "Frites"
+    ]
+  },
+  {
+    "id": "assiettes-chich-taouk",
+    "name": "Chich Taouk",
+    "category": "Nos Assiettes",
+    "price": "10,80 €",
+    "description": "Taboulé, hommous, moutabel, falafel, fatayer et rakakat servis avec blé concassé ou frites.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Falafel",
+      "Taboulé"
+    ]
+  },
+  {
+    "id": "assiettes-chich-mechoui",
+    "name": "Chich Mechoui",
+    "category": "Nos Assiettes",
+    "price": "12,80 €",
+    "description": "Brochette d’escalope marinée grillée avec sauce à l’ail, salade Fayrouz, hommous et blé concassé, frites ou riz.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Grillade",
+      "Sauce à l’ail"
+    ]
+  },
+  {
+    "id": "assiettes-kefta",
+    "name": "Kefta",
+    "category": "Nos Assiettes",
+    "price": "11,80 €",
+    "description": "Deux brochettes de viande hachée marinée grillées avec salade Fayrouz, hommous et blé concassé, frites ou riz.",
+    "image": null,
+    "tags": [
+      "Bœuf",
+      "Grillade"
+    ]
+  },
+  {
+    "id": "assiettes-vegetarien",
+    "name": "Végétarien",
+    "category": "Nos Assiettes",
+    "price": "11,80 €",
+    "description": "Taboulé, hommous, moutabel, falafel, fatayer et rakakat servis avec blé concassé ou frites.",
+    "image": null,
+    "tags": [
+      "Végétarien",
+      "Falafel"
+    ]
+  },
+  {
+    "id": "assiettes-aourok",
+    "name": "Aourok",
+    "category": "Nos Assiettes",
+    "price": "20,00 €",
+    "description": "Escalope de poulet marinée à la farine de blé, tomates et oignons avec salade Fayrouz, hommous, frites ou riz.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Escalope"
+    ]
+  },
+  {
+    "id": "assiettes-grillade-mixte",
+    "name": "Grillade mixte",
+    "category": "Nos Assiettes",
+    "price": "18,00 €",
+    "description": "Taouk, méchoui ou kefta servis avec salade Fayrouz, hommous et blé concassé, frites ou riz.",
+    "image": null,
+    "tags": [
+      "Grillade",
+      "Mixte"
+    ]
+  },
+  {
+    "id": "assiettes-fayrouz",
+    "name": "Fayrouz (Assiette)",
+    "category": "Nos Assiettes",
+    "price": "20,00 €",
+    "description": "Taouk, kefta et mechoui accompagnés de taboulé, hommous, feuilles de vigne, falafel et rakakat.",
+    "image": null,
+    "tags": [
+      "Signature",
+      "Mixte"
+    ]
+  },
+  {
+    "id": "assiettes-doulma",
+    "name": "Doulma",
+    "category": "Nos Assiettes",
+    "price": "13,80 €",
+    "description": "Feuilles de vigne farcies à la viande hachée avec salade Fayrouz, hommous et taboulé.",
+    "image": null,
+    "tags": [
+      "Feuilles de vigne",
+      "Viande"
+    ]
+  },
+  {
+    "id": "assiettes-falafel-vegan",
+    "name": "Falafel (Vegan)",
+    "category": "Nos Assiettes",
+    "price": "11,00 €",
+    "description": "Taboulé, hommous avec quatre falafels et sauce sésame servis avec blé concassé ou frites.",
+    "image": null,
+    "tags": [
+      "Vegan",
+      "Falafel"
+    ]
+  },
+  {
+    "id": "entrees-froids-taboule",
+    "name": "Taboulé",
+    "category": "Nos Entrées Froids",
+    "price": "5,80 €",
+    "description": "Salade de persil, tomate, blé concassé, citron, oignon et huile d’olive.",
+    "image": null,
+    "tags": [
+      "Salade",
+      "Végétarien"
+    ]
+  },
+  {
+    "id": "entrees-froids-hommus",
+    "name": "Hommus",
+    "category": "Nos Entrées Froids",
+    "price": "5,80 €",
+    "description": "Purée de pois chiches à la crème de sésame, huile d’olive et citron.",
+    "image": null,
+    "tags": [
+      "Pois chiches",
+      "Sésame"
+    ]
+  },
+  {
+    "id": "entrees-froids-moutabel",
+    "name": "Moutabel",
+    "category": "Nos Entrées Froids",
+    "price": "5,80 €",
+    "description": "Purée d’aubergines à la crème de sésame.",
+    "image": null,
+    "tags": [
+      "Aubergine",
+      "Sésame"
+    ]
+  },
+  {
+    "id": "entrees-froids-labne",
+    "name": "Labné",
+    "category": "Nos Entrées Froids",
+    "price": "5,80 €",
+    "description": "Fromage blanc à la menthe, huile d’olive et ail.",
+    "image": null,
+    "tags": [
+      "Fromage",
+      "Menthe"
+    ]
+  },
+  {
+    "id": "entrees-froids-jajique",
+    "name": "Jajique",
+    "category": "Nos Entrées Froids",
+    "price": "5,50 €",
+    "description": "Yaourt aux concombres, menthe et ail.",
+    "image": null,
+    "tags": [
+      "Yaourt",
+      "Menthe"
+    ]
+  },
+  {
+    "id": "entrees-froids-feuilles-vigne",
+    "name": "Feuilles de vigne",
+    "category": "Nos Entrées Froids",
+    "price": "5,50 €",
+    "description": "Feuilles de vigne farcies au riz.",
+    "image": null,
+    "tags": [
+      "Feuilles de vigne",
+      "Riz"
+    ]
+  },
+  {
+    "id": "entrees-froids-salade-fayrouz",
+    "name": "Salade Fayrouz",
+    "category": "Nos Entrées Froids",
+    "price": "5,50 €",
+    "description": "Roqouette, oignons, mélasse de grenade et huile d’olive.",
+    "image": null,
+    "tags": [
+      "Salade",
+      "Roqouette"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-falafel",
+    "name": "Falafel (Vegan)",
+    "category": "Nos Entrées Chaudes",
+    "price": "6,50 €",
+    "description": "Quatre boulettes de pois chiches, fèves et persil.",
+    "image": null,
+    "tags": [
+      "Vegan",
+      "Pois chiches"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-beignet",
+    "name": "Les Beignets",
+    "category": "Nos Entrées Chaudes",
+    "price": "2,00 €",
+    "description": "Sambousek (bœuf haché), fatayer (épinards) et rakakat (fromages).",
+    "image": null,
+    "tags": [
+      "Assortiment",
+      "Beignets"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-chawrma",
+    "name": "Chawrma",
+    "category": "Nos Entrées Chaudes",
+    "price": "5,50 €",
+    "description": "Poulet à la broche tournante.",
+    "image": null,
+    "tags": [
+      "Poulet"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-arayess",
+    "name": "Arayéss à la viande",
+    "category": "Nos Entrées Chaudes",
+    "price": "6,50 €",
+    "description": "Galettes de pain libanais farcies à la viande.",
+    "image": null,
+    "tags": [
+      "Pain",
+      "Viande"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-ailes-poulet",
+    "name": "Ailes de Poulet",
+    "category": "Nos Entrées Chaudes",
+    "price": "8,00 €",
+    "description": "Ailes marinées à l’ail et au citron.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Citron"
+    ]
+  },
+  {
+    "id": "entrees-chaudes-batat-harra",
+    "name": "Batat harra",
+    "category": "Nos Entrées Chaudes",
+    "price": "5,80 €",
+    "description": "Pommes de terre rissolées relevées à l’ail et à la coriandre fraîche.",
+    "image": null,
+    "tags": [
+      "Pommes de terre",
+      "Épicé"
+    ]
+  },
+  {
+    "id": "mezzes-classique",
+    "name": "Mezzés (1 personne)",
+    "category": "Les Mezzé à Partager",
+    "price": "16,00 €",
+    "description": "Quatre variétés froides et quatre variétés chaudes.",
+    "image": null,
+    "tags": [
+      "Mezzé",
+      "Partage"
+    ]
+  },
+  {
+    "id": "mezzes-extra",
+    "name": "Mezzés Extra",
+    "category": "Les Mezzé à Partager",
+    "price": "22,00 €",
+    "description": "Quatre variétés froides et quatre variétés chaudes avec assortiment de grillades.",
+    "image": null,
+    "tags": [
+      "Mezzé",
+      "Grillades"
+    ]
+  },
+  {
+    "id": "saute-poulet",
+    "name": "Sauté au poulet",
+    "category": "Nos Plats aux sautés",
+    "price": "11,80 €",
+    "description": "Escalope de poulet sautée marinée avec poivrons, carottes, oignons, ail et champignons, servie avec salade et riz.",
+    "image": null,
+    "tags": [
+      "Poulet",
+      "Sauté"
+    ]
+  },
+  {
+    "id": "saute-boeuf",
+    "name": "Sauté au bœuf",
+    "category": "Nos Plats aux sautés",
+    "price": "12,00 €",
+    "description": "Bœuf sauté mariné avec poivrons, carottes, oignons, ail et champignons, servi avec salade et riz.",
+    "image": null,
+    "tags": [
+      "Bœuf",
+      "Sauté"
+    ]
+  },
+  {
+    "id": "menu-match-plat",
+    "name": "Menu plat + boisson",
+    "category": "Le menu du match",
+    "price": "11,00 €",
+    "description": "Plat au choix accompagné d’une boisson.",
+    "image": null,
+    "tags": [
+      "Menu",
+      "Boisson"
+    ]
+  },
+  {
+    "id": "menu-match-sandwich",
+    "name": "Menu sandwich + frites + boisson",
+    "category": "Le menu du match",
+    "price": "9,00 €",
+    "description": "Sandwich au choix avec frites et boisson.",
+    "image": null,
+    "tags": [
+      "Menu",
+      "Sandwich"
+    ]
+  },
+  {
+    "id": "sandwiches-chawrama",
+    "name": "Chawrama",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "6,00 €",
+    "description": "Poulet à la broche tournante servi en sandwich.",
+    "image": null,
+    "tags": [
+      "Sandwich",
+      "Poulet"
+    ]
+  },
+  {
+    "id": "sandwiches-taouk",
+    "name": "Taouk",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "6,50 €",
+    "description": "Brochette d’escalope de poulet en sandwich.",
+    "image": null,
+    "tags": [
+      "Sandwich",
+      "Poulet"
+    ]
+  },
+  {
+    "id": "sandwiches-kefta",
+    "name": "Kefta",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "6,50 €",
+    "description": "Deux brochettes de viande de bœuf hachée en sandwich.",
+    "image": null,
+    "tags": [
+      "Sandwich",
+      "Bœuf"
+    ]
+  },
+  {
+    "id": "sandwiches-mechoui",
+    "name": "Mechoui",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "7,00 €",
+    "description": "Brochette d’agneau grillée servie en sandwich.",
+    "image": null,
+    "tags": [
+      "Sandwich",
+      "Agneau"
+    ]
+  },
+  {
+    "id": "sandwiches-falafel",
+    "name": "Falafel",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "6,50 €",
+    "description": "Sandwich aux boulettes de pois chiches.",
+    "image": null,
+    "tags": [
+      "Sandwich",
+      "Végétarien"
+    ]
+  },
+  {
+    "id": "sandwiches-tacos",
+    "name": "Tacos",
+    "category": "Nos sandwiches (+3€ pour le menu)",
+    "price": "8,00 €",
+    "description": "Tacos garnis de poulet et de bœuf.",
+    "image": null,
+    "tags": [
+      "Tacos",
+      "Poulet",
+      "Bœuf"
+    ]
+  },
+  {
+    "id": "supp-portion-riz",
+    "name": "Portion de riz",
+    "category": "Les suppléments",
+    "price": "3,00 €",
+    "description": "Portion individuelle de riz parfumé.",
+    "image": null,
+    "tags": [
+      "Accompagnement"
+    ]
+  },
+  {
+    "id": "supp-portion-ble",
+    "name": "Portion de blé concassé",
+    "category": "Les suppléments",
+    "price": "3,00 €",
+    "description": "Blé concassé légèrement assaisonné.",
+    "image": null,
+    "tags": [
+      "Accompagnement",
+      "Blé"
+    ]
+  },
+  {
+    "id": "supp-portion-frites",
+    "name": "Portion de frites",
+    "category": "Les suppléments",
+    "price": "3,00 €",
+    "description": "Frites dorées et croustillantes.",
+    "image": null,
+    "tags": [
+      "Accompagnement",
+      "Frites"
+    ]
+  },
+  {
+    "id": "supp-sauce-ail",
+    "name": "Sauce à l’ail",
+    "category": "Les suppléments",
+    "price": "3,50 €",
+    "description": "Sauce à l’ail maison onctueuse.",
+    "image": null,
+    "tags": [
+      "Sauce"
+    ]
+  },
+  {
+    "id": "supp-sauce-blanche",
+    "name": "Sauce blanche",
+    "category": "Les suppléments",
+    "price": "3,00 €",
+    "description": "Sauce blanche douce et crémeuse.",
+    "image": null,
+    "tags": [
+      "Sauce"
+    ]
+  },
+  {
+    "id": "supp-sauce-sesame",
+    "name": "Sauce sésame",
+    "category": "Les suppléments",
+    "price": "3,50 €",
+    "description": "Sauce tahini au sésame.",
+    "image": null,
+    "tags": [
+      "Sauce",
+      "Sésame"
+    ]
+  },
+  {
+    "id": "supp-brochette-kefta",
+    "name": "Brochette kefta",
+    "category": "Les suppléments",
+    "price": "3,50 €",
+    "description": "Brochette de kefta grillée à ajouter à votre plat.",
+    "image": null,
+    "tags": [
+      "Brochette",
+      "Bœuf"
+    ]
+  },
+  {
+    "id": "supp-brochette-taouk",
+    "name": "Brochette taouk",
+    "category": "Les suppléments",
+    "price": "3,50 €",
+    "description": "Brochette de poulet taouk marinée.",
+    "image": null,
+    "tags": [
+      "Brochette",
+      "Poulet"
+    ]
+  },
+  {
+    "id": "supp-brochette-meshoui",
+    "name": "Brochette méshoui",
+    "category": "Les suppléments",
+    "price": "4,50 €",
+    "description": "Brochette d’agneau méchoui grillée.",
+    "image": null,
+    "tags": [
+      "Brochette",
+      "Agneau"
+    ]
+  },
+  {
+    "id": "boissons-soft-coca",
+    "name": "Coca / Coca Zero",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Boisson gazeuse Coca-Cola ou Coca-Cola Zero 33 cl.",
+    "image": null,
+    "tags": [
+      "Soda"
+    ]
+  },
+  {
+    "id": "boissons-soft-sprite",
+    "name": "Sprite",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Boisson gazeuse citron-lime 33 cl.",
+    "image": null,
+    "tags": [
+      "Soda"
+    ]
+  },
+  {
+    "id": "boissons-soft-fanta",
+    "name": "Fanta",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Boisson gazeuse à l’orange 33 cl.",
+    "image": null,
+    "tags": [
+      "Soda"
+    ]
+  },
+  {
+    "id": "boissons-soft-jus-pomme",
+    "name": "Jus de pomme",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Jus de pomme rafraîchissant.",
+    "image": null,
+    "tags": [
+      "Jus"
+    ]
+  },
+  {
+    "id": "boissons-soft-jus-orange",
+    "name": "Jus d’orange",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Jus d’orange pressé.",
+    "image": null,
+    "tags": [
+      "Jus"
+    ]
+  },
+  {
+    "id": "boissons-soft-jus-fruit",
+    "name": "Jus de fruit",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Sélection de jus de fruits variés.",
+    "image": null,
+    "tags": [
+      "Jus"
+    ]
+  },
+  {
+    "id": "boissons-soft-feuztea",
+    "name": "Fuzetea",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Thé glacé parfumé.",
+    "image": null,
+    "tags": [
+      "Thé glacé"
+    ]
+  },
+  {
+    "id": "boissons-soft-eau",
+    "name": "Eau plate",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Eau minérale plate 50 cl.",
+    "image": null,
+    "tags": [
+      "Eau"
+    ]
+  },
+  {
+    "id": "boissons-soft-ayran",
+    "name": "Ayran",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,70 €",
+    "description": "Boisson yogourt salée traditionnelle.",
+    "image": null,
+    "tags": [
+      "Lait fermenté"
+    ]
+  },
+  {
+    "id": "boissons-soft-oasis",
+    "name": "Oasis",
+    "category": "Cartes des boissons - Soft",
+    "price": "2,20 €",
+    "description": "Boisson fruitée sans bulles.",
+    "image": null,
+    "tags": [
+      "Boisson fruitée"
+    ]
+  },
+  {
+    "id": "boissons-chaudes-cafe",
+    "name": "Café",
+    "category": "Cartes des boissons - Boissons chaudes",
+    "price": "2,00 €",
+    "description": "Expresso court.",
+    "image": null,
+    "tags": [
+      "Chaude"
+    ]
+  },
+  {
+    "id": "boissons-chaudes-the",
+    "name": "Thé",
+    "category": "Cartes des boissons - Boissons chaudes",
+    "price": "2,00 €",
+    "description": "Sélection de thés chauds.",
+    "image": null,
+    "tags": [
+      "Chaude"
+    ]
+  },
+  {
+    "id": "boissons-vins-75",
+    "name": "Vin libanais (rouge, rosé, blanc) 75 cl",
+    "category": "Cartes des boissons - Vins libanais",
+    "price": "20,00 €",
+    "description": "Bouteille de 75 cl de vin libanais rouge, rosé ou blanc.",
+    "image": null,
+    "tags": [
+      "Vin"
+    ]
+  },
+  {
+    "id": "boissons-vins-50",
+    "name": "Vin libanais (rouge, rosé, blanc) 50 cl",
+    "category": "Cartes des boissons - Vins libanais",
+    "price": "15,00 €",
+    "description": "Bouteille de 50 cl de vin libanais rouge, rosé ou blanc.",
+    "image": null,
+    "tags": [
+      "Vin"
+    ]
+  },
+  {
+    "id": "boissons-vins-25",
+    "name": "Vin libanais (rouge, rosé, blanc) 25 cl",
+    "category": "Cartes des boissons - Vins libanais",
+    "price": "15,00 €",
+    "description": "Bouteille de 25 cl de vin libanais rouge, rosé ou blanc.",
+    "image": null,
+    "tags": [
+      "Vin"
+    ]
+  },
+  {
+    "id": "boissons-biere-almaza",
+    "name": "Almaza libanais",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "4,00 €",
+    "description": "Bière libanaise Almaza 33 cl.",
+    "image": null,
+    "tags": [
+      "Bière"
+    ]
+  },
+  {
+    "id": "boissons-biere-heineken",
+    "name": "Heineken",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "2,50 €",
+    "description": "Bière blonde Heineken 25 cl.",
+    "image": null,
+    "tags": [
+      "Bière"
+    ]
+  },
+  {
+    "id": "boissons-biere-arak",
+    "name": "Arak libanais",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "4,00 €",
+    "description": "Apéritif anisé traditionnel.",
+    "image": null,
+    "tags": [
+      "Apéritif"
+    ]
+  },
+  {
+    "id": "boissons-biere-picon",
+    "name": "Picon bière",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "3,80 €",
+    "description": "Bière servie avec liqueur d’orange amère.",
+    "image": null,
+    "tags": [
+      "Apéritif"
+    ]
+  },
+  {
+    "id": "boissons-biere-picon-kir",
+    "name": "Picon bière (Kir)",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "4,00 €",
+    "description": "Variation de picon bière aux notes de cassis.",
+    "image": null,
+    "tags": [
+      "Apéritif"
+    ]
+  },
+  {
+    "id": "boissons-biere-kir",
+    "name": "Kir libanais",
+    "category": "Cartes des boissons - Bière et apéritifs",
+    "price": "4,00 €",
+    "description": "Apéritif libanais au vin et sirop de fruits.",
+    "image": null,
+    "tags": [
+      "Apéritif"
+    ]
+  },
+  {
+    "id": "desserts-baklawa",
+    "name": "Baklawa",
+    "category": "Nos Desserts",
+    "price": "4,00 €",
+    "description": "Pâtisseries feuilletées fourrées aux noisettes, pistaches et amandes.",
+    "image": null,
+    "tags": [
+      "Pâtisserie"
+    ]
+  },
+  {
+    "id": "desserts-mouhallabieh",
+    "name": "Mouhallabieh",
+    "category": "Nos Desserts",
+    "price": "4,00 €",
+    "description": "Flan parfumé à la fleur d’oranger garni d’un coulis de pistache.",
+    "image": null,
+    "tags": [
+      "Flan",
+      "Fleur d’oranger"
+    ]
+  },
+  {
+    "id": "desserts-znoud",
+    "name": "Znoud El-Sit",
+    "category": "Nos Desserts",
+    "price": "4,00 €",
+    "description": "Rouleaux de pâte phyllo farcis de crème de lait puis frits.",
+    "image": null,
+    "tags": [
+      "Pâtisserie"
+    ]
+  }
+]

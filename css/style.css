@@ -12186,12 +12186,6 @@ h5,
     z-index: 0;
 }
 
-.logo-filter {
-    width: 260px !important; 
-    height: auto; 
-    filter: brightness(0) saturate(100%) invert(78%) sepia(18%) saturate(346%) hue-rotate(15deg) brightness(95%) contrast(92%);
-}
-
 @media (max-width: 1199.98px) {
     .owl-carousel.home-slider .slider-item {
         background-position: center center !important;
@@ -12357,6 +12351,12 @@ h5,
 
 .owl-carousel.home-slider .owl-dots .owl-dot.active span {
     background: white;
+}
+
+.logo-filter {
+    width: 260px !important; 
+    height: auto; 
+    filter: brightness(0) saturate(100%) invert(78%) sepia(18%) saturate(346%) hue-rotate(15deg) brightness(95%) contrast(92%);
 }
 
 .owl-custom-nav {

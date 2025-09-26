@@ -1,0 +1,317 @@
+[
+  {
+    "id": "assiette-1",
+    "name": "Kefta",
+    "category": "Main Dishes",
+    "price": 10.8,
+    "description": "Brochettes de viande hachée marinée grillée avec salade Fayrouz, hommous et accompagnement.",
+    "tags": [
+      "Beef",
+      "Grilled",
+      "Traditional"
+    ]
+  },
+  {
+    "id": "assiette-2",
+    "name": "Aourok",
+    "category": "Main Dishes",
+    "price": 10.8,
+    "description": "Plat traditionnel servi avec salade Fayrouz et accompagnement.",
+    "tags": [
+      "Traditional"
+    ]
+  },
+  {
+    "id": "assiette-3",
+    "name": "Fayrouz",
+    "category": "Main Dishes",
+    "price": 12.8,
+    "description": "Assiette signature avec salade Fayrouz, hommous et accompagnement.",
+    "tags": [
+      "House Special"
+    ]
+  },
+  {
+    "id": "assiette-4",
+    "name": "Doulma",
+    "category": "Main Dishes",
+    "price": 11.8,
+    "description": "Feuilles de vigne farcies à la viande hachée, servies avec hommous et taboulé.",
+    "tags": [
+      "Stuffed",
+      "Vine Leaves"
+    ]
+  },
+  {
+    "id": "assiette-5",
+    "name": "Chawrma",
+    "category": "Main Dishes",
+    "price": 11.8,
+    "description": "Poulet à la broche tournante mariné et épicé, avec salade Fayrouz, hommous et accompagnement.",
+    "tags": [
+      "Chicken",
+      "Shawarma"
+    ]
+  },
+  {
+    "id": "assiette-6",
+    "name": "Chich Taouk",
+    "category": "Main Dishes",
+    "price": 20.0,
+    "description": "Brochette d’escalope marinée grillée avec sauce à l’ail, salade Fayrouz, hommous et accompagnement.",
+    "tags": [
+      "Chicken",
+      "Grilled"
+    ]
+  },
+  {
+    "id": "assiette-7",
+    "name": "Végétarien",
+    "category": "Main Dishes",
+    "price": 20.0,
+    "description": "Taboulé, hommous, falafel, feuilles de vigne, rakakat.",
+    "tags": [
+      "Vegetarian"
+    ]
+  },
+  {
+    "id": "assiette-8",
+    "name": "Grillade mixte",
+    "category": "Main Dishes",
+    "price": 13.8,
+    "description": "Assortiment de viandes grillées avec salade Fayrouz, hommous et accompagnement.",
+    "tags": [
+      "Mixed Grill"
+    ]
+  },
+  {
+    "id": "sandwich-1",
+    "name": "Tacos",
+    "category": "Sandwiches",
+    "price": 6.5,
+    "description": "Tacos garnis avec choix de viande et sauces.",
+    "tags": [
+      "Sandwich"
+    ]
+  },
+  {
+    "id": "sandwich-2",
+    "name": "Falafel Sandwich",
+    "category": "Sandwiches",
+    "price": 6.5,
+    "description": "Sandwich garni de falafel, salade et sauce sésame.",
+    "tags": [
+      "Vegetarian",
+      "Vegan"
+    ]
+  },
+  {
+    "id": "sandwich-3",
+    "name": "Meshoui Sandwich",
+    "category": "Sandwiches",
+    "price": 7.0,
+    "description": "Sandwich avec viande grillée, salade et sauces.",
+    "tags": [
+      "Grilled",
+      "Sandwich"
+    ]
+  },
+  {
+    "id": "sandwich-4",
+    "name": "Chawrama Sandwich",
+    "category": "Sandwiches",
+    "price": 6.5,
+    "description": "Sandwich au poulet mariné à la broche, salade et sauce.",
+    "tags": [
+      "Chicken",
+      "Shawarma"
+    ]
+  },
+  {
+    "id": "sandwich-5",
+    "name": "Taouk Sandwich",
+    "category": "Sandwiches",
+    "price": 8.0,
+    "description": "Sandwich au poulet grillé avec sauce à l’ail.",
+    "tags": [
+      "Chicken",
+      "Grilled"
+    ]
+  },
+  {
+    "id": "sandwich-6",
+    "name": "Sauté au bœuf",
+    "category": "Main Dishes",
+    "price": 6.0,
+    "description": "Bœuf au sauté mariné avec légumes, servi avec salade et riz.",
+    "tags": [
+      "Beef",
+      "Stir-fry"
+    ]
+  },
+  {
+    "id": "sandwich-7",
+    "name": "Sauté au poulet",
+    "category": "Main Dishes",
+    "price": 11.8,
+    "description": "Poulet sauté avec légumes, servi avec salade et riz.",
+    "tags": [
+      "Chicken",
+      "Stir-fry"
+    ]
+  },
+  {
+    "id": "supplement-1",
+    "name": "Portion de riz",
+    "category": "Supplements",
+    "price": 3.0,
+    "description": "Portion de riz nature.",
+    "tags": [
+      "Rice"
+    ]
+  },
+  {
+    "id": "supplement-2",
+    "name": "Portion de blé concassé",
+    "category": "Supplements",
+    "price": 3.0,
+    "description": "Portion de blé concassé.",
+    "tags": [
+      "Grain"
+    ]
+  },
+  {
+    "id": "supplement-3",
+    "name": "Portion de frites",
+    "category": "Supplements",
+    "price": 3.0,
+    "description": "Portion de frites croustillantes.",
+    "tags": [
+      "Fries"
+    ]
+  },
+  {
+    "id": "drink-soft-1",
+    "name": "Coca / Coca Zero",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Boisson gazeuse Coca-Cola ou Coca Zero.",
+    "tags": [
+      "Soft Drink"
+    ]
+  },
+  {
+    "id": "drink-soft-2",
+    "name": "Sprite",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Boisson gazeuse Sprite.",
+    "tags": [
+      "Soft Drink"
+    ]
+  },
+  {
+    "id": "drink-soft-3",
+    "name": "Fanta",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Boisson gazeuse Fanta.",
+    "tags": [
+      "Soft Drink"
+    ]
+  },
+  {
+    "id": "drink-soft-4",
+    "name": "Jus de pomme",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Jus de pomme frais.",
+    "tags": [
+      "Juice"
+    ]
+  },
+  {
+    "id": "drink-soft-5",
+    "name": "Jus d’orange",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Jus d’orange frais.",
+    "tags": [
+      "Juice"
+    ]
+  },
+  {
+    "id": "drink-soft-6",
+    "name": "Feuztea",
+    "category": "Drinks",
+    "price": 2.2,
+    "description": "Thé glacé Feuztea.",
+    "tags": [
+      "Iced Tea"
+    ]
+  },
+  {
+    "id": "drink-hot-1",
+    "name": "Café",
+    "category": "Hot Drinks",
+    "price": 2.0,
+    "description": "Café chaud.",
+    "tags": [
+      "Coffee"
+    ]
+  },
+  {
+    "id": "drink-hot-2",
+    "name": "Thé",
+    "category": "Hot Drinks",
+    "price": 2.0,
+    "description": "Thé chaud.",
+    "tags": [
+      "Tea"
+    ]
+  },
+  {
+    "id": "dessert-3",
+    "name": "Baklawa",
+    "category": "Desserts",
+    "price": 4.0,
+    "description": "Pâtisseries feuilletées, fourrées aux noisettes, pistaches et amandes.",
+    "tags": [
+      "Pastry",
+      "Sweet"
+    ]
+  },
+  {
+    "id": "dessert-4",
+    "name": "Mouhallabieh",
+    "category": "Desserts",
+    "price": 4.0,
+    "description": "Flan parfumé à l’eau de fleur d’oranger garni avec un coulis de pistache.",
+    "tags": [
+      "Flan",
+      "Sweet"
+    ]
+  },
+  {
+    "id": "dessert-5",
+    "name": "Znoud El-Sit",
+    "category": "Desserts",
+    "price": 4.0,
+    "description": "Rouleaux de pâte phyllo, farcis d’une crème de lait et frits.",
+    "tags": [
+      "Pastry",
+      "Sweet"
+    ]
+  },
+  {
+    "id": "wine-3",
+    "name": "Vin libanais (rouge, rosé, blanc)",
+    "category": "Wine",
+    "price": 20.0,
+    "description": "Vin libanais disponible en rouge, rosé et blanc.",
+    "tags": [
+      "Wine",
+      "Lebanese"
+    ]
+  }
+]
