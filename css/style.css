@@ -13128,7 +13128,7 @@ textarea.form-control {
 .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
     color: #fff;
-    margin-bottom: 40px;
+    margin-bottom: 8px;
     font-size: 18px;
     font-weight: 700;
 }
@@ -14118,4 +14118,10 @@ textarea.form-control {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -136px;
     }
+}
+
+.footer-telephone {
+    font-size: 24px;
+    font-weight: 600;
+    color: #000000;
 }
